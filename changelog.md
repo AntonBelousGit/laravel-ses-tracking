@@ -2,6 +2,13 @@
 
 All notable changes to `Laravel Ses Tracking` will be documented in this file.
 
+## Version 1.0.8
+
+### Added
+- Added support for Laravel 11
+- Updated PHP requirement to ^8.2
+- Updated dev dependencies for Laravel 11 compatibility
+
 ## Version 1.0.7
 
 ### Changed
